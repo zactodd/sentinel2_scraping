@@ -1,0 +1,1 @@
+This directory contains sentinel2 scraping resources.
