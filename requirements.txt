@@ -2,3 +2,4 @@ sentinelhub
 pandas
 numpy
 matplotlib
+https://github.com/matplotlib/basemap/archive/master.zip
